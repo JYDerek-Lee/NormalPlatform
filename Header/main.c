@@ -1,6 +1,8 @@
 #include "L.h"
-#include <stdio.h>
 
 void main() {
-	speak();
+	I(i);
+	display();
+	fprintf(stderr,"%d", i);
+	FP("%d", i);
 }

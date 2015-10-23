@@ -1,5 +1,5 @@
 #include "L.h"
 
-void speak() {
+void display() {
 	fprintf(stderr,"¾¥¹ß\n");
 }
